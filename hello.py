@@ -1,4 +1,4 @@
-str = 'hello'
+str = 'hello '
 symbol = input('Enter symbol:')
 n = 0
 for i in str:
